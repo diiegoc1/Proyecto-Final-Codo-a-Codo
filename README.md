@@ -9,6 +9,5 @@ For this project was created a system of administration of students, teachers an
 In this project a CRUD (Create, Read, Update and Delete) was made that would impact the student tables,
 Teachers and subjects, using the Java language to perform these operations impacting on a database
 Mysql data. Tables for students, teachers and subjects are created in the database.
-<a target="_blank" href="https://www.youtube.com/watch?v=0dl6kfYsFnM">ver proyecto</a>
+video:
 https://www.youtube.com/watch?v=0dl6kfYsFnM
-<video src="https://www.youtube.com/watch?v=0dl6kfYsFnM">video</video>
