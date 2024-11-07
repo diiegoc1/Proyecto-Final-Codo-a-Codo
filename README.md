@@ -11,6 +11,3 @@ Teachers and subjects, using the Java language to perform these operations impac
 Mysql data. Tables for students, teachers and subjects are created in the database.
 video:
 [![Watch the video](https://img.youtube.com/vi/0dl6kfYsFnM/0.jpg)](https://www.youtube.com/watch?v=0dl6kfYsFnM)
-https://img.youtube.com/vi/0dl6kfYsFnM/0.jpg
-
-https://www.youtube.com/watch?v=0dl6kfYsFnM
